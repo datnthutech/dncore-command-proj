@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MapThui\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MapThui\\.nuget\\packages"
+    ]
+  }
+}
